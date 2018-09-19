@@ -1,4 +1,7 @@
 git init: torna a pasta um repositório git, criando o sistema de 
 arquivos '.git/'
 
+git add: adiciona um arquivo ao git, para que eles sejam commitados.
 
+git commit: realiza um commit, salvando os dados no armazenamento 
+remoto.
