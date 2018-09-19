@@ -1,3 +1,5 @@
+nano: edita o arquivo com o editor de texto "nano".
+
 git init: torna a pasta um repositório git, criando o sistema de 
 arquivos '.git/'
 
