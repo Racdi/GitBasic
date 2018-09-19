@@ -1,0 +1,4 @@
+git init: torna a pasta um repositório git, criando o sistema de 
+arquivos '.git/'
+
+
