@@ -7,3 +7,8 @@ git add: adiciona um arquivo ao git, para que eles sejam commitados.
 
 git commit: realiza um commit, salvando os dados no armazenamento 
 remoto.
+
+git branch: lista as branchs existentes.
+git branch <argumento>: cria uma branch nova com o nome escrito.
+
+git checkout: troca de branch.
