@@ -11,4 +11,9 @@ remoto.
 git branch: lista as branchs existentes.
 git branch <argumento>: cria uma branch nova com o nome escrito.
 
-git checkout: troca de branch.
+git checkout <nome>: troca de branch.
+git checkout <hash>: troca de versão. NOTA: qualquer arquivo commitado 
+fica salvo no git, podendo ser restaurado. Não insira arquivos grandes.
+
+.gitignore: Um arquivo responsável por avisar o git sobre quais arquivos 
+NÃO sejam commitados.
