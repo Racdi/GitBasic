@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-	printf("Hello Visual Studio!");
+	printf("Estou mexendo nesse arquivo via git, vamos esperar que funcione...");
 	getchar();
 	return 0;
 }
